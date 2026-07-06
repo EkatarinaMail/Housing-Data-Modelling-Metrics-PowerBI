@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project builds on the cleaned dataset created in [Housing-Data-Cleaning-ETL]( https://github.com/EkatarinaMail/Housing-Data-Cleaning-ETL) by developing a complete analytical solution in Power BI. The main goal was to design a reliable data model, create business KPIs using DAX, and present the results in an interactive dashboard for a UK housing association.
+This project builds on the cleaned dataset created in [Housing-Data-Cleaning-ETL project]( https://github.com/EkatarinaMail/Housing-Data-Cleaning-ETL) by developing a complete analytical solution in Power BI. The main goal was to design a reliable data model, create business KPIs using DAX, and present the results in an interactive dashboard for a UK housing association.
 The dashboard allows users to monitor rent arrears, outstanding repairs, and vulnerable tenant information while providing accurate and consistent reporting for business decision-making.
 
 

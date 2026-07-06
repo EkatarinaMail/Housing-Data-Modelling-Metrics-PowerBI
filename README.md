@@ -29,7 +29,7 @@ The dashboard allows users to monitor rent arrears, outstanding repairs, and vul
 * DAX Calculations: I developed reusable DAX measures to calculate key business metrics, including total rent arrears, outstanding repairs, and the percentage of vulnerable tenants receiving Universal Credit.
 Dashboard Design: I created a clean and easy-to-read dashboard using cards, charts, and consistent formatting. I also improved usability by removing unnecessary categories and applying proper chronological sorting to ensure reports were clear for non-technical users.
 
-![Power BI Property Performance Dashboard](https://github.com/user-attachments/assets/732dbfce-3824-47a0-8792-ddc9ddf25193)
+![Power BI Property Performance Dashboard - Desktop View](https://github.com/user-attachments/assets/a7d7fd54-a715-42d9-b92b-df4445a0e214)
 *Property Performance Dashboard*
 
 * Data Validation: Before completing the project, I verified the DAX calculations by connecting Excel directly to the Power BI model and comparing the results with independent Pivot Tables. This confirmed that the dashboard metrics matched the source data accurately.

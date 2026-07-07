@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project builds on the dataset prepared in [Housing-Data-Cleaning-ETL project]( https://github.com/EkatarinaMail/Housing-Data-Cleaning-ETL) where the raw data was cleaned and transformed using Power Query. The main goal was to design a reliable data model, create business KPIs using DAX, and present the results in an interactive dashboard for a UK housing association.
+This project builds on the dataset prepared in [Housing-Data-Cleaning-ETL project]( https://github.com/EkatarinaMail/Housing-Data-Cleaning-ETL-Part-1) where the raw data was cleaned and transformed using Power Query. The main goal was to design a reliable data model, create business KPIs using DAX, and present the results in an interactive dashboard for a UK housing association.
 The final report provides an easy way to monitor key operational and financial metrics, supporting day-to-day business decisions.
 
 

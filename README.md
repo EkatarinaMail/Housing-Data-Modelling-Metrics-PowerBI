@@ -37,10 +37,12 @@ The final report provides an easy way to monitor key operational and financial m
 ![Data Validation via Excel Pivot Tables and DAX Verification](https://github.com/user-attachments/assets/4f3974ff-ac16-4df2-bd76-7bc5e3a18c4b)
 *Data Validation using Excel Pivot Tables*
 
-## Tools Used 
-
-Power BI Desktop, Power Query, DAX, Microsoft Excel (Pivot Tables), DAX Studio.
 
 ## Outcome
 
 The project resulted in a complete analytical solution, including a Star Schema data model, reusable DAX measures, and an interactive Power BI dashboard. The calculations were independently validated in Excel to ensure the reported figures matched the source data.
+
+
+## Tools Used 
+
+Power BI Desktop, Power Query, DAX, Microsoft Excel (Pivot Tables), DAX Studio.

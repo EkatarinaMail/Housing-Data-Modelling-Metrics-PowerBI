@@ -25,7 +25,7 @@ The final report provides an easy way to monitor key operational and financial m
 
 * Time Intelligence: Added a dedicated calendar table using DAX and configured active and inactive relationships. This made it possible to analyse repairs based on both the logged date and the completed date.
 
-* Developed reusable DAX measures for key business KPIs, including rent arrears, outstanding repairs, and the percentage of tenants receiving Universal Credit.
+* DAX Measures: Developed reusable DAX measures for key business KPIs, including rent arrears, outstanding repairs, and the percentage of tenants receiving Universal Credit.
 
 * Dashboard Design: Designed a clean and easy-to-use dashboard with cards, charts, and consistent formatting. Applied chronological sorting and removed unnecessary categories to improve readability for non-technical users.
 

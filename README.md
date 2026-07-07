@@ -43,4 +43,4 @@ Power BI Desktop, Power Query, DAX, Microsoft Excel (Pivot Tables), DAX Studio.
 
 ## Outcome
 
-The completed solution includes a Star Schema data model, reusable DAX measures, and an interactive dashboard for monitoring key housing metrics. All calculations were independently validated in Excel to ensure the reported results matched the underlying data.
+The project resulted in a complete analytical solution, including a Star Schema data model, reusable DAX measures, and an interactive Power BI dashboard. The calculations were independently validated in Excel to ensure the reported figures matched the source data.

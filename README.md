@@ -1,7 +1,7 @@
 # Housing-Data-Modelling-Metrics-PowerBI
 
-
-
+![Power BI Housing Compliance and Validation Walkthrough](https://github.com/user-attachments/assets/8342b927-6b42-48e8-a70a-ae99d7d4eaf4)
+*Interactive Dashboard with Data Validation*
 
 
 
@@ -12,7 +12,6 @@ The dashboard allows users to monitor rent arrears, outstanding repairs, and vul
 
 
 ## Key Skills Demonstrated
-
 
 * Relationship Management: I resolved granularity issues between property records and tenant information by merging the required data in Power Query before loading it into the model. This prevented many-to-many relationships and kept the model simple and reliable.
 
